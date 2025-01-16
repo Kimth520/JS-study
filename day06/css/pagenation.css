@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 80%;
+  margin: 20px auto;
+}
+
+h1{
+  text-align: center;
+}
+
+#content{
+  border: 1px solid gray;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#pagenation-container{
+  border: 1px solid gainsboro;
+  text-align: center;
+}
+
